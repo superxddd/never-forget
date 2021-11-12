@@ -1,0 +1,23 @@
+﻿PyQt5==5.13.0
+PyQtWebEngine==5.13.0
+Jinja2==2.8  # 版本大于2.8，打包出来import报错
+xlrd>=0.9.4
+xlwt
+openpyxl>=3.0.4
+toposort
+requests>=2.11.0
+msgpack-python
+socketIO-client
+pyzmq==16.0.3
+psutil
+pika
+six
+semver
+xmltodict
+pyyaml
+asyncqt
+tqdm
+watchdog
+aiohttp
+pywin32
+numpy==1.19.2
